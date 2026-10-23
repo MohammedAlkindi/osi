@@ -45,8 +45,8 @@ The static production site is generated in `dist/`.
 
 ## Deployment
 
-For GitHub Pages, deploy the built `dist/` folder. The Vite config uses `base: './'` so the generated assets work on project pages such as `/OSI/`.
+For GitHub Pages, deploy the built `dist/` folder. The Vite config uses `base: './'` so the generated assets work on project pages such as `/osi/`.
 
 ## Repository
 
-`MohammedAlkindi/OSI`
+`MohammedAlkindi/osi`
