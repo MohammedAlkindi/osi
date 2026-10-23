@@ -1,6 +1,6 @@
 # Oman Space Initiative Website
 
-A polished public website for Oman Space Initiative, a youth-led platform focused on strengthening Oman’s space-sector pipeline through awareness, education, and hands-on experience.
+The public website for Oman Space Initiative, a youth-led platform focused on strengthening Oman’s space-sector pipeline through awareness, education, and hands-on experience.
 
 ## Overview
 
